@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gulshan00007
+- 👋 Hi, I’m Gulshan
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web dev
